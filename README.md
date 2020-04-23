@@ -1,2 +1,2 @@
-# Coursera_Capstone
-Projects submitted as part of Coursera Capstone Data Science course
+# TorontoClustering
+A project to work on the clustering of Toronto neighborhoods based on their venues. 
