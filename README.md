@@ -1,6 +1,3 @@
-## You can view the notebook at this URL:
-https://nitishbhardwaj1912.github.io/FindMeAHome_TorontoClustering/
-
 <p align="center">
   <img width="400" height="250" src="https://upload.wikimedia.org/wikipedia/commons/6/69/EM_Clustering_of_Old_Faithful_data.gif" alt="Clustering">
   </p>
@@ -30,10 +27,11 @@ Toronto is a highly populated city in the Ontario province of Canada. It is also
 This project addresses the business problem of the users who are looking for a house in Toronto. The solution will suggest the most common venues near the neighbourhoods as well as the crime rate, local employment rate and several childcare spaces in the area.
 
 ## Detailed Project Report can be viewed at this link:
-shorturl.at/gUY12
+https://shorturl.at/gUY12
+<a href="https://nbviewer.jupyter.org/github/nitishbhardwaj1912/FindMeAHome_TorontoClustering/blob/master/Project_Business_Report_FindMeAHome.pdf">Project Report</a>
 
 ## Detailed Project Presentation can be viewed at this link:
-shorturl.at/bhxJP
+https://shorturl.at/bhxJP
 
 ## Project output, code and analysis performed can be viewed at this link:
 https://nitishbhardwaj1912.github.io/FindMeAHome_TorontoClustering/
